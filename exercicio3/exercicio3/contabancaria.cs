@@ -8,5 +8,9 @@ namespace exercicio3
 {
     internal class contabancaria
     {
+        public Int32 valor1;
+        public Int32 valor2;  
+
+        public contabancaria() { }  
     }
 }

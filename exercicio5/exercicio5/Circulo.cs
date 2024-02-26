@@ -8,7 +8,7 @@ namespace exercicio5
 {
     internal class Circulo
     {
-        private double raio;
+        public double raio;
         // Propriedade Raio
         public double Raio
         {
