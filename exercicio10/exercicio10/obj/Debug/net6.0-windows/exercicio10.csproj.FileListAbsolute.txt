@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\bin\Debug\net6.0-windows\exercicio10.exe
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\bin\Debug\net6.0-windows\exercicio10.deps.json
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\bin\Debug\net6.0-windows\exercicio10.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\bin\Debug\net6.0-windows\exercicio10.dll
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\bin\Debug\net6.0-windows\exercicio10.pdb
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\obj\Debug\net6.0-windows\exercicio10.Form1.resources
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\obj\Debug\net6.0-windows\exercicio10.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\obj\Debug\net6.0-windows\exercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\obj\Debug\net6.0-windows\exercicio10.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\obj\Debug\net6.0-windows\exercicio10.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\obj\Debug\net6.0-windows\exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\obj\Debug\net6.0-windows\exercicio10.sourcelink.json
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\obj\Debug\net6.0-windows\exercicio10.dll
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\obj\Debug\net6.0-windows\refint\exercicio10.dll
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\obj\Debug\net6.0-windows\exercicio10.pdb
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\obj\Debug\net6.0-windows\exercicio10.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\aula6\exercicio10\exercicio10\obj\Debug\net6.0-windows\ref\exercicio10.dll
