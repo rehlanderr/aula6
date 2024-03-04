@@ -8,5 +8,8 @@ namespace exercicio7
 {
     internal class carro
     {
+        public carro() { }
+        public string marca;
+        public string modelo;
     }
 }

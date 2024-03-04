@@ -10,9 +10,9 @@ namespace exercicio7
         private void button1_Click(object sender, EventArgs e)
         {
             carro c = new carro();  
-            c.marca = Convert.ToInt32(textBox1.Text);
-                MessageBox
-            c.modelo = Convert.ToInt32(textBox2.Text);
+            c.marca = textBox1.Text;
+            c.modelo = textBox2.Text;
+            MessageBox.Show("Seu carro é da marca " + c.marca + ", modelo " + c.modelo);
         }
     }
 }
